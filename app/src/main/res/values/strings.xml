@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DisneyApp</string>
+    <string name="view_detail">View detail</string>
+    <string name="appears_in_these">Appears in these</string>
+</resources>
